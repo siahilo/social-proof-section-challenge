@@ -11,17 +11,13 @@ The challenge is to build out this social proof section and get it looking as cl
 ### Links
 - [Social proof section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA)
 
-- [Solution site URL]()
+- [Solution site URL](https://siahilo.github.io/social-proof-section-challenge/)
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-
-### Screenshot
-
-[Screenshot](images/Challenge%20screenshot.png)
 
 ### What I learned
 - How to make a responsive page using HTML and CSS Flexbox
